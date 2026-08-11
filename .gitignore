@@ -1,2 +1,5 @@
-public
-index.html
+node_modules
+dist
+*.log
+.DS_Store
+.vite
